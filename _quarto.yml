@@ -8,7 +8,7 @@ website:
   twitter-card:
     site: "@rwdatasci"
   open-graph: true
-  site-url: https://realworlddatascience.net/
+  site-url: https://michaeldmiles.github.io/michaels-data-blog/
   repo-url: https://github.com/realworlddatascience/realworlddatascience.github.io
   repo-actions: [edit, issue]
   # If you are forking our repo to develop content -- whether for Real World Data Science 
@@ -16,7 +16,7 @@ website:
   # If building your own site, replace our GA tag with your own GA tag before deployment.
   # This will prevent your activity being tracked and counted in our analytics dashboard.
   # Thank you!
-  google-analytics: "G-1TTWB7YTR6"
+  #google-analytics: "G-1TTWB7YTR6"
   navbar:
     background: "#f0eeeb"
     logo: images/rwds-logo-150px.png
