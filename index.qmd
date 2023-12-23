@@ -1,0 +1,299 @@
+---
+pagetitle: "Real World Data Science"
+page-layout: custom
+section-divs: false
+editor: source
+sidebar: false
+search: false
+description: | 
+  A showcase for data science in action, brought to you by the Royal Statistical Society in partnership with the American Statistical Association.
+image: images/rwds-logo-150px.png
+listing:
+  - id: latest-content
+    contents: 
+    - /case-studies
+    - /ideas
+    - /careers
+    - /viewpoints
+    - "!index.qmd"
+    - "!rwds-xmas-card.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: case-studies
+    contents: 
+    - /case-studies
+    - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: ideas
+    contents: 
+    - /ideas
+    - "!index.qmd"
+    - "!dsb-live.qmd"
+    - "!xmas-cards.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: careers
+    contents: 
+    - /careers
+    - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: viewpoints
+    contents: 
+    - /viewpoints
+    - "!index.qmd"
+    - "!digital-ethics-summit.qmd"
+    - "!rwds-xmas-card.qmd"
+    - "!ian-diamond.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  # - id: editors-blog
+  #   contents: 
+  #   - /viewpoints/editors-blog
+  #   - "!index.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+
+  # - id: datasciencebites
+  #   contents: 
+  #   - /ideas/datasciencebites
+  #   - "!index.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+
+  # - id: interviews
+  #   contents: 
+  #   - /viewpoints/interviews
+  #   - "!index.qmd"
+  #   - "!politics-of-modelling.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+
+  # - id: career-profiles
+  #   contents: 
+  #   - /careers/career-profiles
+  #   - "!index.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+
+toc: false
+---
+::: {.content-container}
+::: {.top-story .purple-background}
+<a href="/viewpoints/editors-blog/posts/2023/12/12/rwds-xmas-card.qmd">
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-text}
+## A Christmas card in R for the Real World Data Science community
+Inspired by Nicola Rennie's excellent tutorial on making Christmas cards with R, we've had a go at putting together our own design -- especially for you, the wonderful community of Real World Data Science readers and contributors. Thank you for supporting us this year! We'll be back in January.   
+:::
+::: {.g-col-12 .g-col-lg-8 .top-story-img}
+![](viewpoints/editors-blog/posts/2023/12/12/images/rwds-christmas-card-thumb.png)
+:::
+:::
+
+</a>
+
+:::
+:::
+
+::: {.header-text} 
+::: {.content-container}
+::: {.header-block}
+Welcome to **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). We bring together data science students, practitioners, leaders, and educators to share knowledge, learn from, and be inspired by real-world applications of data science.
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="latest-content.qmd">
+
+## Latest content 
+</a>
+
+::: {#latest-content}
+:::
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+![](images/quote-purple.png){width="100px"}
+
+## I hear more and more a lot of companies talking about AI general intelligence, and how AI is going to take over the world, and I’m tremendously concerned about this. There is an opportunity to build AI that is human empowering, that keeps us strong, able, capable, intelligent, and can support us in all our human capabilities.
+Mihaela van der Schaar on AI's potential for good
+
+::: {.button}
+[Join the debate](viewpoints/posts/2023/12/06/ai-fringe.qmd)
+:::
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="viewpoints/index.qmd">
+
+## Viewpoints 
+</a>
+
+::: {#viewpoints}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="case-studies/index.qmd">
+
+## Case Studies
+</a> 
+
+::: {#case-studies}
+:::
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+![](images/quote-purple.png){width="100px"}
+
+## In academia, the bias in favor of positive findings is well-documented. But, in an applied setting, where results matter more than publication criteria, negative findings can falsify erroneous assumptions, bring unknown problems to light, and prompt the creation of new processes and tools. In this context, a failure is only truly a failure if nothing is learned from it.
+Noah Wright on 'learning from failure' 
+
+::: {.button}
+[Read the case study](case-studies/posts/2023/11/16/learning-from-failure.qmd)
+:::
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="ideas/index.qmd">
+
+## Ideas
+</a> 
+
+::: {#ideas}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="careers/index.qmd">
+
+## Careers 
+</a>
+
+::: {#careers}
+:::
+
+:::
+:::
+
+::: {.footer-text}
+::: {.footer-container .black-background}
+::: {.footer-block}
+::: grid
+
+
+::: {.g-col-12 .g-col-md-2}
+### Published by
+[![](images/rss-footer-new.png){fig-align="left"}](https://rss.org.uk/)
+:::
+::: {.g-col-12 .g-col-md-2}
+### Our partners
+[![](images/asa-footer-new.png){fig-align="left"}](https://www.amstat.org/)
+:::
+::: {.g-col-12 .g-col-md-2}
+### With support from 
+[![](images/ati-footer-new.png){fig-align="left"}](https://www.turing.ac.uk/)
+:::
+::: {.g-col-12 .g-col-md-2}
+:::
+::: {.g-col-12 .g-col-md-2}
+### About us
+[Our aims](about-rwds.qmd)\
+[Our team](/viewpoints/editors-blog/posts/2022/10/18/meet-the-team.qmd)\
+[Partners and funders](rwds-partners.qmd)\
+[Contact us](contact.qmd)
+:::
+::: {.g-col-12 .g-col-md-2}
+### Contribute
+[Call for contributions](/contributor-docs/call-for-contributions.qmd)\
+[Contributor guidelines](/contributor-docs/contributor-guidelines.qmd)\
+[Style guide](/contributor-docs/style-guide.qmd)
+:::
+
+
+<!-- ::: {.g-col-12 .g-col-md-12}
+### Our partners
+logos to go here
+::: -->
+
+:::
+:::
+:::
+:::
