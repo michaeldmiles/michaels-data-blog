@@ -6,13 +6,13 @@
       version="2.0">
 <channel>
 <title>Real World Data Science</title>
-<link>https://realworlddatascience.net/ideas/index.html</link>
-<atom:link href="https://realworlddatascience.net/ideas/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://michaeldmiles.github.io/michaels-data-blog/ideas/index.html</link>
+<atom:link href="https://michaeldmiles.github.io/michaels-data-blog/ideas/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
-<url>https://realworlddatascience.net/images/rwds-logo-150px.png</url>
+<url>https://michaeldmiles.github.io/michaels-data-blog/images/rwds-logo-150px.png</url>
 <title>Real World Data Science</title>
-<link>https://realworlddatascience.net/ideas/index.html</link>
+<link>https://michaeldmiles.github.io/michaels-data-blog/ideas/index.html</link>
 <height>83</height>
 <width>144</width>
 </image>
@@ -21,7 +21,7 @@
 <item>
   <title>Creating Christmas cards with R</title>
   <dc:creator>Nicola Rennie</dc:creator>
-  <link>https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/xmas-cards.html</link>
   <description><![CDATA[ 
 
 
@@ -156,10 +156,10 @@ font-style: inherit;">FALSE</span>)</span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s1.png" class="img-fluid" alt="Dark blue square."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s1.png" class="img-fluid" alt="Dark blue square."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s2.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s2.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom."></p>
 </div>
 </div>
 </div>
@@ -305,10 +305,10 @@ font-style: inherit;">"white"</span></span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s3.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s3.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s4.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s4.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre."></p>
 </div>
 </div>
 </div>
@@ -472,10 +472,10 @@ font-style: inherit;">2</span></span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s5.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s5.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s6.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s6.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms."></p>
 </div>
 </div>
 </div>
@@ -608,10 +608,10 @@ font-style: inherit;">plot</span>(nose)</span></code></pre></div>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s7.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s7.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/nose.png" class="img-fluid" alt="Outline of a triangle pointing to the right against a white background."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/nose.png" class="img-fluid" alt="Outline of a triangle pointing to the right against a white background."></p>
 </div>
 </div>
 </div>
@@ -704,10 +704,10 @@ font-style: inherit;">7</span></span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s8.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s8.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s9.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose, with text reading Merry Christmas at the bottom."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s9.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose, with text reading Merry Christmas at the bottom."></p>
 </div>
 </div>
 </div>
@@ -752,7 +752,7 @@ font-style: inherit;">7</span></span>
 © 2023 Nicola Rennie
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -791,14 +791,14 @@ Wickham, Hadley. 2016. <em>Ggplot2: Elegant Graphics for Data Analysis</em>. Spr
 </div></section></div> ]]></description>
   <category>R</category>
   <category>Data visualisation</category>
-  <guid>https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/xmas-cards.html</guid>
   <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/xmas-card.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/xmas-card.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>How to ‘open science’: A brief guide to principles and practices</title>
   <dc:creator>Isabel Sassoon</dc:creator>
-  <link>https://realworlddatascience.net/ideas/posts/2023/11/06/how-to-open-science.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/how-to-open-science.html</link>
   <description><![CDATA[ 
 
 
@@ -840,7 +840,7 @@ What is a pre-print server?
 <p>Pre-print servers are online repositories that enable you to share versions of your manuscript before or while your manuscript is under review. Examples of such repositories include <a href="https://arxiv.org/">ArXiv</a> and <a href="https://www.medrxiv.org/">MedRxiv</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/images/pre-print.png" class="img-fluid figure-img" alt="Screengrab of the MedRxiv page for a paper titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use: a UK wide cross-sectional online survey.'"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/pre-print.png" class="img-fluid figure-img" alt="Screengrab of the MedRxiv page for a paper titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use: a UK wide cross-sectional online survey.'"></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -874,7 +874,7 @@ What is pre-registration?
 <p>Below is an example of a pre-registration.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/images/pre-registration.png" class="img-fluid figure-img" alt="Screengrab of a pre-registration document, detailing a research project's hypothesis, study type, and study design."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/pre-registration.png" class="img-fluid figure-img" alt="Screengrab of a pre-registration document, detailing a research project's hypothesis, study type, and study design."></p>
 </figure>
 </div>
 </div>
@@ -943,7 +943,7 @@ Apps and websites to support open science
 <p>OSF is a free web app that supports researchers with sharing, archiving, registration and collaboration. The <a href="https://help.osf.io">Open Science Framework website</a> is worth checking out and includes a guide to help users get started. Once a project is public in the OSF it will have a DOI and a permanent link, so it can be cited. OSF can also support the tracking of versions of your file. One drawback can be that there is a limit on the maximum size of file that can be uploaded.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/images/osf.png" class="img-fluid figure-img" style="width:80.0%" alt="Screengrab of an Open Science Framework repository for a project titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use.'"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/osf.png" class="img-fluid figure-img" style="width:80.0%" alt="Screengrab of an Open Science Framework repository for a project titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use.'"></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -1027,7 +1027,7 @@ Apps and websites to support open science
 <p>© 2023 Isabel Sassoon</p>
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://realworlddatascience.net/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a> Thumbnail photo by <a href="https://unsplash.com/@the_photoman?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Basil James</a> on <a href="https://unsplash.com/photos/gray-stainless-steel-padlock-iC4BsZQaREg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a> Thumbnail photo by <a href="https://unsplash.com/@the_photoman?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Basil James</a> on <a href="https://unsplash.com/photos/gray-stainless-steel-padlock-iC4BsZQaREg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -1059,14 +1059,14 @@ Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Applet
   <category>Open source</category>
   <category>Open data</category>
   <category>Reproducible research</category>
-  <guid>https://realworlddatascience.net/ideas/posts/2023/11/06/how-to-open-science.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/how-to-open-science.html</guid>
   <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/posts/2023/11/06/images/basil-james-iC4BsZQaREg-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/basil-james-iC4BsZQaREg-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Heading to a conference this summer? Share your learnings here</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/17/dsb-live.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/17/dsb-live.html</link>
   <description><![CDATA[ 
 
 
@@ -1100,7 +1100,7 @@ Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Applet
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/17/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/17/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail image includes photo by <a href="https://unsplash.com/@productschool?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Product School</a> on <a href="https://unsplash.com/photos/nOvIa_x_tfo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/17/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/17/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail image includes photo by <a href="https://unsplash.com/@productschool?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Product School</a> on <a href="https://unsplash.com/photos/nOvIa_x_tfo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -1119,14 +1119,14 @@ Tarran, Brian. 2023. “Heading to a conference this summer? Share your learning
   <category>Content ideas</category>
   <category>Call for contributions</category>
   <category>Events</category>
-  <guid>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/17/dsb-live.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/17/dsb-live.html</guid>
   <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/17/images/dsb-live.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/17/images/dsb-live.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Choosing the right forecast</title>
   <dc:creator>Brian King</dc:creator>
-  <link>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/13/choosing-right-forecast.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/13/choosing-right-forecast.html</link>
   <description><![CDATA[ 
 
 
@@ -1155,7 +1155,7 @@ About the paper
 <p>The authors argue that situations are often encountered where forecasts are derived and subsequently averaged for observations with different inherent variability. One example might be financial data, such as stock returns, where there are commonly periods with much higher variance (known as volatility in the financial setting). Such processes can be represented using a model known as stochastic volatility, where the variance of observed data evolves randomly over time. Figure 1 plots an example path of the data-generating process under such a model. When data exhibits this varying uncertainty, many proper scoring rules will assign a score whose magnitude changes for those observations with more variability, a characteristic the authors term scale dependence. Some rules will ‘punish’ observations with higher uncertainty, and others may ‘reward’ such observations. Hence, when averaging multiple scores, observations will not be treated symmetrically, which the authors argue can “lead to unintuitive forecast rankings.”</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/13/images/fig1.png" class="img-fluid figure-img" alt="Left panel of figure shows a time series of volatility, rendered as a line chart. Right panel shows the resulting observations under a standard stochastic volatility model, in scatter plot form."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/13/images/fig1.png" class="img-fluid figure-img" alt="Left panel of figure shows a time series of volatility, rendered as a line chart. Right panel shows the resulting observations under a standard stochastic volatility model, in scatter plot form."></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -1208,14 +1208,14 @@ King, Brian. 2023. “Choosing the right forecast.” Real World Data Science, J
   <category>Forecasting</category>
   <category>Prediction</category>
   <category>Robustness</category>
-  <guid>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/13/choosing-right-forecast.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/13/choosing-right-forecast.html</guid>
   <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/13/images/brendan-church-pKeF6Tt3c08-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/07/13/images/brendan-church-pKeF6Tt3c08-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Trusted AI: translating AI ethics from theory into practice</title>
   <dc:creator>Maxine Setiawan and Mira Pijselman</dc:creator>
-  <link>https://realworlddatascience.net/ideas/posts/2023/07/03/trusted-AI.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/07/03/trusted-AI.html</link>
   <description><![CDATA[ 
 
 
@@ -1257,7 +1257,7 @@ This is an explanation technique that trains local surrogate models, using expla
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/lime.png"><img src="https://realworlddatascience.net/ideas/posts/2023/07/03/images/lime.png" class="img-fluid figure-img" alt="Illustration of explainable AI processes using LIME on an image classification AI system. In this example, an image classification system receives an image of a sunflower and classifies it as a flower with 70% likelihood. The LIME approach then sees parts of the input image perturbed, or masked, leading to different classification likelihoods from the AI system. From this, a model is able to determine the parts of the input image that best explain the initial classification of 'flower'."></a></p>
+<p><a href="images/lime.png"><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/07/03/images/lime.png" class="img-fluid figure-img" alt="Illustration of explainable AI processes using LIME on an image classification AI system. In this example, an image classification system receives an image of a sunflower and classifies it as a flower with 70% likelihood. The LIME approach then sees parts of the input image perturbed, or masked, leading to different classification likelihoods from the AI system. From this, a model is able to determine the parts of the input image that best explain the initial classification of 'flower'."></a></p>
 <figcaption class="figure-caption">Illustration of explainable AI processes using LIME on an image classification AI system. Adapted from “Local Interpretable Model-Agnostic Explanations (LIME): An Introduction” and <a href="https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnostic-explanations-lime/">O’Reilly</a>.</figcaption>
 </figure>
 </div>
@@ -1387,7 +1387,7 @@ Further reading
 © 2023 Maxine Setiawan and Mira Pijselman
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/posts/2023/07/03/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/posts/2023/07/03/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/07/03/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/07/03/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 <p>Thumbnail image by <a href="https://www.burg-halle.de/en/xlab">Alexa Steinbrück</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Explainable AI / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
@@ -1415,14 +1415,14 @@ Setiawan, Maxine and Mira Pijselman. 2023. “Trusted AI: translating AI ethics 
   <category>AI ethics</category>
   <category>Principles</category>
   <category>Regulation</category>
-  <guid>https://realworlddatascience.net/ideas/posts/2023/07/03/trusted-AI.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/07/03/trusted-AI.html</guid>
   <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/posts/2023/07/03/images/explainable-AI.png" medium="image" type="image/png" height="102" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/07/03/images/explainable-AI.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
   <title>A demonstration of the law of the flowering plants</title>
   <dc:creator>Jonathan Auerbach</dc:creator>
-  <link>https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/flowers.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/flowers.html</link>
   <description><![CDATA[ 
 
 
@@ -1492,14 +1492,14 @@ font-style: inherit;">```</span></span></code></pre></div>
 
 <a
 href=&quot;https://en.wikipedia.org/wiki/Adolphe_Quetelet#/media/File:Adolphe_Qu%C3%A9telet_by_Joseph-Arnold_Demannez.jpg&quot;>Wikimedia
-Commons</a>" data-gallery="Quetelet" title="Portrait of Adolphe Quetelet."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/quetelet_1875400.jpg" class="img-fluid figure-img" alt="Portrait of Adolphe Quetelet."></a></p>
+Commons</a>" data-gallery="Quetelet" title="Portrait of Adolphe Quetelet."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/quetelet_1875400.jpg" class="img-fluid figure-img" alt="Portrait of Adolphe Quetelet."></a></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center" style="flex-basis: 50.0%;justify-content: center;">
 <figure class="figure">
 <p><a href="images/sur_le_climat400.jpeg" class="lightbox" data-description="Source:
 
-<a href=&quot;https://gallica.bnf.fr/ark:/12148/bpt6k95028d&quot;>Gallica</a>" data-gallery="Quetelet" title="Title page of Adolphe Quetelet's 'On the climate of Belgium'."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/sur_le_climat400.jpeg" class="img-fluid figure-img" alt="Title page of Adolphe Quetelet's 'On the climate of Belgium'."></a></p>
+<a href=&quot;https://gallica.bnf.fr/ark:/12148/bpt6k95028d&quot;>Gallica</a>" data-gallery="Quetelet" title="Title page of Adolphe Quetelet's 'On the climate of Belgium'."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/sur_le_climat400.jpeg" class="img-fluid figure-img" alt="Title page of Adolphe Quetelet's 'On the climate of Belgium'."></a></p>
 </figure>
 </div>
 </div>
@@ -1513,7 +1513,7 @@ Commons</a>" data-gallery="Quetelet" title="Portrait of Adolphe Quetelet."><img 
 <figure class="figure">
 <p><a href="images/quetelet_bloom.png" class="lightbox" data-description="Source:
 
-<a href=&quot;https://gallica.bnf.fr/ark:/12148/bpt6k95028d&quot;>Gallica</a>" data-gallery="quarto-lightbox-gallery-3" title="A table of bloom dates at Brussels Observatory observed by Quetelet between 1839 and 1852."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/quetelet_bloom.png" class="img-fluid figure-img" alt="A table of bloom dates at Brussels Observatory observed by Quetelet between 1839 and 1852." width="600"></a></p>
+<a href=&quot;https://gallica.bnf.fr/ark:/12148/bpt6k95028d&quot;>Gallica</a>" data-gallery="quarto-lightbox-gallery-3" title="A table of bloom dates at Brussels Observatory observed by Quetelet between 1839 and 1852."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/quetelet_bloom.png" class="img-fluid figure-img" alt="A table of bloom dates at Brussels Observatory observed by Quetelet between 1839 and 1852." width="600"></a></p>
 </figure>
 </div>
 <div class="figure-caption">
@@ -1530,7 +1530,7 @@ Commons</a>" data-gallery="Quetelet" title="Portrait of Adolphe Quetelet."><img 
 <p><a href="images/buds250.jpg" class="lightbox" data-description="Source:
 
 <a href=&quot;https://www.usanpn.org/nn/TrackaLilac&quot;>USA National Phenology
-Network</a>" data-gallery="flowers" title="Photo of lilac flower buds."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/buds250.jpg" class="img-fluid figure-img" alt="Photo of lilac flower buds."></a></p>
+Network</a>" data-gallery="flowers" title="Photo of lilac flower buds."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/buds250.jpg" class="img-fluid figure-img" alt="Photo of lilac flower buds."></a></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center" style="flex-basis: 33.3%;justify-content: center;">
@@ -1538,7 +1538,7 @@ Network</a>" data-gallery="flowers" title="Photo of lilac flower buds."><img src
 <p><a href="images/open_flowers250.jpg" class="lightbox" data-description="Source:
 
 <a href=&quot;https://www.usanpn.org/nn/TrackaLilac&quot;>USA National Phenology
-Network</a>" data-gallery="flowers" title="Photo of open lilac flowers."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/open_flowers250.jpg" class="img-fluid figure-img" alt="Photo of open lilac flowers."></a></p>
+Network</a>" data-gallery="flowers" title="Photo of open lilac flowers."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/open_flowers250.jpg" class="img-fluid figure-img" alt="Photo of open lilac flowers."></a></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center" style="flex-basis: 33.3%;justify-content: center;">
@@ -1546,7 +1546,7 @@ Network</a>" data-gallery="flowers" title="Photo of open lilac flowers."><img sr
 <p><a href="images/full_flowers250.jpg" class="lightbox" data-description="Source:
 
 <a href=&quot;https://www.usanpn.org/nn/TrackaLilac&quot;>USA National Phenology
-Network</a>" data-gallery="flowers" title="Photo of full lilac flowers."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/full_flowers250.jpg" class="img-fluid figure-img" alt="Photo of full lilac flowers."></a></p>
+Network</a>" data-gallery="flowers" title="Photo of full lilac flowers."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/full_flowers250.jpg" class="img-fluid figure-img" alt="Photo of full lilac flowers."></a></p>
 </figure>
 </div>
 </div>
@@ -2650,7 +2650,7 @@ font-style: inherit;">```</span></span></code></pre></div>
 
 provided,
 
-<a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;>CC BY 4.0</a>" data-gallery="quarto-lightbox-gallery-7" title="A line graph of midrange temperature by day, for January to June 1839, with day of last frost (March 8) and day of first bloom (May 11) marked by vertical dashed lines."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/fig4.png" class="img-fluid figure-img" alt="A line graph of midrange temperature by day, for January to June 1839, with day of last frost (March 8) and day of first bloom (May 11) marked by vertical dashed lines."></a></p>
+<a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;>CC BY 4.0</a>" data-gallery="quarto-lightbox-gallery-7" title="A line graph of midrange temperature by day, for January to June 1839, with day of last frost (March 8) and day of first bloom (May 11) marked by vertical dashed lines."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/fig4.png" class="img-fluid figure-img" alt="A line graph of midrange temperature by day, for January to June 1839, with day of last frost (March 8) and day of first bloom (May 11) marked by vertical dashed lines."></a></p>
 </figure>
 </div>
 <div class="figure-caption">
@@ -4322,7 +4322,7 @@ font-style: inherit;">```</span></span></code></pre></div>
 
 provided,
 
-<a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;>CC BY 4.0</a>" data-gallery="quarto-lightbox-gallery-8" title="This figure plots the predictions made by Quetelet's law against the actual bloom dates scientists observed from US lilac data. Data are represented using blue contours, and a dotted line of equality is drawn through the graph. The dotted line intersects the blue contours at their peak, suggesting that the law derived from Quetelet’s data accurately predicts the typical bloom date of the USA data."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/fig5.png" class="img-fluid figure-img" alt="This figure plots the predictions made by Quetelet's law against the actual bloom dates scientists observed from US lilac data. Data are represented using blue contours, and a dotted line of equality is drawn through the graph. The dotted line intersects the blue contours at their peak, suggesting that the law derived from Quetelet’s data accurately predicts the typical bloom date of the USA data."></a></p>
+<a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;>CC BY 4.0</a>" data-gallery="quarto-lightbox-gallery-8" title="This figure plots the predictions made by Quetelet's law against the actual bloom dates scientists observed from US lilac data. Data are represented using blue contours, and a dotted line of equality is drawn through the graph. The dotted line intersects the blue contours at their peak, suggesting that the law derived from Quetelet’s data accurately predicts the typical bloom date of the USA data."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/fig5.png" class="img-fluid figure-img" alt="This figure plots the predictions made by Quetelet's law against the actual bloom dates scientists observed from US lilac data. Data are represented using blue contours, and a dotted line of equality is drawn through the graph. The dotted line intersects the blue contours at their peak, suggesting that the law derived from Quetelet’s data accurately predicts the typical bloom date of the USA data."></a></p>
 </figure>
 </div>
 <div class="figure-caption">
@@ -5238,7 +5238,7 @@ font-style: inherit;">```</span></span></code></pre></div>
 
 provided,
 
-<a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;>CC BY 4.0</a>" data-gallery="quarto-lightbox-gallery-9" title="A line graph of midrange temperature by day in Brussels for January 1 to February 18 (observed) and February 19 to May 20 (forecast), 2023, with day of last frost (January 27) and predicted day of first bloom (April 19) marked by vertical dashed lines."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/fig6.png" class="img-fluid figure-img" alt="A line graph of midrange temperature by day in Brussels for January 1 to February 18 (observed) and February 19 to May 20 (forecast), 2023, with day of last frost (January 27) and predicted day of first bloom (April 19) marked by vertical dashed lines."></a></p>
+<a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;>CC BY 4.0</a>" data-gallery="quarto-lightbox-gallery-9" title="A line graph of midrange temperature by day in Brussels for January 1 to February 18 (observed) and February 19 to May 20 (forecast), 2023, with day of last frost (January 27) and predicted day of first bloom (April 19) marked by vertical dashed lines."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/fig6.png" class="img-fluid figure-img" alt="A line graph of midrange temperature by day in Brussels for January 1 to February 18 (observed) and February 19 to May 20 (forecast), 2023, with day of last frost (January 27) and predicted day of first bloom (April 19) marked by vertical dashed lines."></a></p>
 </figure>
 </div>
 <div class="figure-caption">
@@ -5257,7 +5257,7 @@ provided,
 
 <a
 href=&quot;https://www.usanpn.org/files/npn/maps/six-bloom-return-interval-2020.png&quot;>USA
-National Phenology Network</a>" data-gallery="quarto-lightbox-gallery-10" title="A map of the United States showing the Spring Bloom Index Return Interval 2020, which measures whether spring is typical when compared to recent decades."><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/six-bloom-return-interval-2020.png" class="img-fluid figure-img" alt="A map of the United States showing the Spring Bloom Index Return Interval 2020, which measures whether spring is typical when compared to recent decades."></a></p>
+National Phenology Network</a>" data-gallery="quarto-lightbox-gallery-10" title="A map of the United States showing the Spring Bloom Index Return Interval 2020, which measures whether spring is typical when compared to recent decades."><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/six-bloom-return-interval-2020.png" class="img-fluid figure-img" alt="A map of the United States showing the Spring Bloom Index Return Interval 2020, which measures whether spring is typical when compared to recent decades."></a></p>
 </figure>
 </div>
 <div class="figure-caption">
@@ -5736,7 +5736,7 @@ font-style: inherit;">```</span></span></code></pre></div>
 © 2023 Jonathan Auerbach
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> Text and code are licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Images are not covered by this licence, except where otherwise noted.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> Text and code are licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Images are not covered by this licence, except where otherwise noted.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -5794,14 +5794,14 @@ Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy D’Agostino 
   <category>Prediction</category>
   <category>History of data science</category>
   <category>Statistics</category>
-  <guid>https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/flowers.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/flowers.html</guid>
   <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/images/quetelet-flowers.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/04/13/images/quetelet-flowers.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Using ‘basket complementarity’ to make product recommendations</title>
   <dc:creator>Moinak Bhaduri</dc:creator>
-  <link>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/03/02/basket-complementarity.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/03/02/basket-complementarity.html</link>
   <description><![CDATA[ 
 
 
@@ -5831,7 +5831,7 @@ About the paper
 <div class="column-body-outset">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/tab1-fig1.png"><img src="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/03/02/images/tab1-fig1.png" class="img-fluid figure-img"></a></p>
+<p><a href="images/tab1-fig1.png"><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/03/02/images/tab1-fig1.png" class="img-fluid figure-img"></a></p>
 </figure>
 </div>
 </div>
@@ -5882,7 +5882,7 @@ About the paper
 © 2023 Moinak Bhaduri
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/03/02/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/03/02/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This work is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>, except where otherwise noted.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/03/02/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/03/02/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This work is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>, except where otherwise noted.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -5902,14 +5902,14 @@ Bhaduri, Moinak. 2023. “Using ‘basket complementarity’ to make product rec
   <category>Market basket analysis</category>
   <category>Recommendation systems</category>
   <category>Complementarity</category>
-  <guid>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/03/02/basket-complementarity.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/03/02/basket-complementarity.html</guid>
   <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/03/02/images/marjan-blan-marjanblan-3nURJV_L7-8-unsplash.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/03/02/images/marjan-blan-marjanblan-3nURJV_L7-8-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Pulling patterns out of data with a graph</title>
   <dc:creator>Andrew Saydjari</dc:creator>
-  <link>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/01/24/pulling-patterns.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/01/24/pulling-patterns.html</link>
   <description><![CDATA[ 
 
 
@@ -5942,7 +5942,7 @@ About the paper and this post
 <p>The key insight of Baron and Ménard was to relate trends in data to an object from graph theory called a <a href="https://en.wikipedia.org/wiki/Minimum_spanning_tree">minimum spanning tree</a>. Given a measure of distance between two data points, for example the usual (Euclidean) distance between two points, we can visualize a dataset as a graph. This graph consists of a node (a dot) for each data point. These nodes are then connected by an edge (a line), labeled by the distance between the two data points. The minimum spanning tree is a reduction of this graph to include only enough of the smallest distance edges so that no node is isolated.</p>
 <p>What Baron and Ménard realized is that datasets that are “trendy” have elongated and narrow minimum spanning trees. As shown in Figure 1, a totally random dataset results in a graph with many branches while a perfect sequence results in a perfect linear graph. Then, they use connectivity of the nodes in the minimum spanning tree to return an ordering of the data that follows the main trend in the dataset. However, a sequence is all you get. It is up to us to understand and interpret what this trend represents.</p>
 <div class="column-page">
-<p><img src="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/01/24/images/fig1.png" class="img-fluid" alt="Three examples - labelled 'random data', 'noisy sequence', and 'perfect sequence' - demonstrating that data with stronger trends ('noisy' and 'perfect sequence') have more narrow and elongated minimum spanning trees (adapted from Baron and Ménard, Figure 1)."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/01/24/images/fig1.png" class="img-fluid" alt="Three examples - labelled 'random data', 'noisy sequence', and 'perfect sequence' - demonstrating that data with stronger trends ('noisy' and 'perfect sequence') have more narrow and elongated minimum spanning trees (adapted from Baron and Ménard, Figure 1)."></p>
 </div>
 
 <div class="no-row-height column-margin column-container"><div class="">
@@ -5988,14 +5988,14 @@ About the paper and this post
   <category>Data management</category>
   <category>Dimension reduction</category>
   <category>Graph theory</category>
-  <guid>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/01/24/pulling-patterns.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/01/24/pulling-patterns.html</guid>
   <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/datasciencebites/posts/2023/01/24/images/signal-from-noise.png" medium="image" type="image/png" height="115" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2023/01/24/images/signal-from-noise.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
   <title>Determining the best way to route drivers for ridesharing via reinforcement learning</title>
   <dc:creator>Brian King</dc:creator>
-  <link>https://realworlddatascience.net/ideas/datasciencebites/posts/2022/12/13/ridesharing.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2022/12/13/ridesharing.html</link>
   <description><![CDATA[ 
 
 
@@ -6024,7 +6024,7 @@ About the paper and this post
 <p>One such situation is that of ridesharing companies (Uber, Lyft, etc.) and how they determine which drivers are sent to which riders (the dispatch problem). Simply put, when a driver is assigned to a rider, this decision impacts the spatial distribution of drivers in the future. Hence the dispatch strategy (our treatment) at the present time will influence riders and drivers in the future, which violates SUTVA and hence invalidates many traditional methods for A/B testing. To tackle this problem, a group of researchers have recently employed a reinforcement learning (RL) framework which can accurately measure the treatment effect in such a scenario. Furthermore, their proposed approach allows for companies to terminate A/B tests earlier if the proposed version B is found to be clearly better. This early stopping can save time and money.</p>
 <p>To better understand RL and how it can contribute to tackling the issue at hand, it’s first helpful to set some context. In typical RL problems, including the one in this paper, the scenario is modeled with something known as a Markov Decision Process (MDP). A MDP links three sets of variables across time: the state or environment, the treatment or action (the reaction to the environment), and the outcome (the response produced by the environment due to the action). These outcomes can be thought of as rewards which depend on the action taken and the state observed. Over time, the machine learns which actions produce more positive rewards and which bring about worse outcomes. Hence, the actions leading to higher rewards are positively reinforced, thus the name reinforcement learning. A causal diagram of an MDP is shown in Figure 1, where <em>S</em><sub><em>t</em></sub>, <em>A</em><sub><em>t</em></sub>, and <em>Y</em><sub><em>t</em></sub> are the <strong>state</strong>, <strong>action</strong>, and <strong>outcome</strong> at time <em>t</em>. As one can see, past treatments influence future outcomes by altering the state variables at the present (the so-called “carryover effect” which violates SUTVA).</p>
 <div class="column-page">
-<p><img src="https://realworlddatascience.net/ideas/datasciencebites/posts/2022/12/13/images/ridesharing-fig1.png" class="img-fluid" alt="A causal diagram of a Markov Decision Process is shown in this figure. Green circles represent states, with arrows leading to red diamonds and blue squares representing, respectively, actions and outcomes. Actions are linked to new states by arrows, and prior states are linked to new states by curved arrows. This illustration conveys how past treatments influence future outcomes by altering the state variables at the present (the so-called “carryover effect” which violates the stable unit treatment value assumption)."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2022/12/13/images/ridesharing-fig1.png" class="img-fluid" alt="A causal diagram of a Markov Decision Process is shown in this figure. Green circles represent states, with arrows leading to red diamonds and blue squares representing, respectively, actions and outcomes. Actions are linked to new states by arrows, and prior states are linked to new states by curved arrows. This illustration conveys how past treatments influence future outcomes by altering the state variables at the present (the so-called “carryover effect” which violates the stable unit treatment value assumption)."></p>
 </div>
 
 <div class="no-row-height column-margin column-container"><div class="">
@@ -6061,9 +6061,9 @@ About the paper and this post
   <category>A/B testing</category>
   <category>Reinforcement learning</category>
   <category>Statistics</category>
-  <guid>https://realworlddatascience.net/ideas/datasciencebites/posts/2022/12/13/ridesharing.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2022/12/13/ridesharing.html</guid>
   <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/datasciencebites/posts/2022/12/13/images/paul-hanaoka-D-qq7W751vs-unsplash.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/datasciencebites/posts/2022/12/13/images/paul-hanaoka-D-qq7W751vs-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

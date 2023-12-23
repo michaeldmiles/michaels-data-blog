@@ -6,13 +6,13 @@
       version="2.0">
 <channel>
 <title>Real World Data Science</title>
-<link>https://realworlddatascience.net/latest-content.html</link>
-<atom:link href="https://realworlddatascience.net/latest-content.xml" rel="self" type="application/rss+xml"/>
+<link>https://michaeldmiles.github.io/michaels-data-blog/latest-content.html</link>
+<atom:link href="https://michaeldmiles.github.io/michaels-data-blog/latest-content.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
-<url>https://realworlddatascience.net/images/rwds-logo-150px.png</url>
+<url>https://michaeldmiles.github.io/michaels-data-blog/images/rwds-logo-150px.png</url>
 <title>Real World Data Science</title>
-<link>https://realworlddatascience.net/latest-content.html</link>
+<link>https://michaeldmiles.github.io/michaels-data-blog/latest-content.html</link>
 <height>83</height>
 <width>144</width>
 </image>
@@ -21,7 +21,7 @@
 <item>
   <title>‘I was pretty clear in my mind that we were into a no-going-back situation’</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/interviews/posts/2023/12/15/ian-diamond.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/12/15/ian-diamond.html</link>
   <description><![CDATA[ 
 
 
@@ -49,13 +49,13 @@ Was it culture? Was it improved processes? Was it better methods? All of the abo
 <div class="g-col-12 g-col-lg-4">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/12/15/images/ian-diamond-sq.png" class="img-fluid figure-img" alt="Photo of national statistician Professor Sir Ian Diamond, standing, with microphone, during a talk."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/12/15/images/ian-diamond-sq.png" class="img-fluid figure-img" alt="Photo of national statistician Professor Sir Ian Diamond, standing, with microphone, during a talk."></p>
 <figcaption class="figure-caption">Professor Sir Ian Diamond, UK national statistician. Image supplied, used with permission.</figcaption>
 </figure>
 </div>
 </div>
 <div class="g-col-12 g-col-lg-8 pullquote-grid pullquote">
-<p><img src="https://realworlddatascience.net/images/pullquote-purple.png" class="img-fluid" width="50"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/images/pullquote-purple.png" class="img-fluid" width="50"></p>
 <p>We have changed the culture, our techniques, and our data. What we have now are appropriate methodologies to answer appropriate questions. Do we still use qualitative data? A hundred percent, when it is necessary to do so. Do we still use surveys? Yes, we’ve got some of the best surveys in the world. But equally, we also use digital data, administrative data, and we use very modern techniques of analysing those data.</p>
 </div>
 </div>
@@ -93,7 +93,7 @@ I hope it will be an innovative, agile organisation which is using evermore dive
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/12/15/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/12/15/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Photo of Professor Sir Ian Diamond is not included in this licence.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/12/15/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/12/15/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Photo of Professor Sir Ian Diamond is not included in this licence.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -114,14 +114,14 @@ Tarran, Brian. 2023. “‘I was pretty clear in my mind that we were into a no-
   <category>Innovation</category>
   <category>Data literacy</category>
   <category>Public engagement</category>
-  <guid>https://realworlddatascience.net/viewpoints/interviews/posts/2023/12/15/ian-diamond.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/12/15/ian-diamond.html</guid>
   <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/interviews/posts/2023/12/15/images/ian-diamond.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/12/15/images/ian-diamond.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Creating Christmas cards with R</title>
   <dc:creator>Nicola Rennie</dc:creator>
-  <link>https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/xmas-cards.html</link>
   <description><![CDATA[ 
 
 
@@ -256,10 +256,10 @@ font-style: inherit;">FALSE</span>)</span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s1.png" class="img-fluid" alt="Dark blue square."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s1.png" class="img-fluid" alt="Dark blue square."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s2.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s2.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom."></p>
 </div>
 </div>
 </div>
@@ -405,10 +405,10 @@ font-style: inherit;">"white"</span></span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s3.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s3.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s4.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s4.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre."></p>
 </div>
 </div>
 </div>
@@ -572,10 +572,10 @@ font-style: inherit;">2</span></span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s5.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s5.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s6.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s6.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms."></p>
 </div>
 </div>
 </div>
@@ -708,10 +708,10 @@ font-style: inherit;">plot</span>(nose)</span></code></pre></div>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s7.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s7.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/nose.png" class="img-fluid" alt="Outline of a triangle pointing to the right against a white background."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/nose.png" class="img-fluid" alt="Outline of a triangle pointing to the right against a white background."></p>
 </div>
 </div>
 </div>
@@ -804,10 +804,10 @@ font-style: inherit;">7</span></span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s8.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s8.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/s9.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose, with text reading Merry Christmas at the bottom."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/s9.png" class="img-fluid" alt="Dark blue square with off-white rectangle at the bottom and small random white stars, and two white circles slightly off centre. Five black dots denote two eyes and three buttons on a snowman. Two brown lines look like arms. Two red rectangles form a hat. Orange triangle as a nose, with text reading Merry Christmas at the bottom."></p>
 </div>
 </div>
 </div>
@@ -852,7 +852,7 @@ font-style: inherit;">7</span></span>
 © 2023 Nicola Rennie
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -891,14 +891,14 @@ Wickham, Hadley. 2016. <em>Ggplot2: Elegant Graphics for Data Analysis</em>. Spr
 </div></section></div> ]]></description>
   <category>R</category>
   <category>Data visualisation</category>
-  <guid>https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/xmas-cards.html</guid>
   <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/images/xmas-card.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/tutorials/posts/2023/12/12/images/xmas-card.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>A Christmas card in R for the Real World Data Science community</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/rwds-xmas-card.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/rwds-xmas-card.html</link>
   <description><![CDATA[ 
 
 
@@ -1097,10 +1097,10 @@ font-style: inherit;">FALSE</span>)</span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/images/s2.png" class="img-fluid" alt="Purple square with white snowflakes."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/images/s2.png" class="img-fluid" alt="Purple square with white snowflakes."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/images/s3.png" class="img-fluid" alt="Purple square with white snowflakes and off-white rectangle at the bottom."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/images/s3.png" class="img-fluid" alt="Purple square with white snowflakes and off-white rectangle at the bottom."></p>
 </div>
 </div>
 </div>
@@ -1520,13 +1520,13 @@ font-style: inherit;">scale_size_identity</span>()</span>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/images/s4.png" class="img-fluid" alt="Purple square with white snowflakes and green tree in foreground."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/images/s4.png" class="img-fluid" alt="Purple square with white snowflakes and green tree in foreground."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/images/s5.png" class="img-fluid" alt="Purple square with white snowflakes and green tree in foreground, now with brown trunk at foot of tree."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/images/s5.png" class="img-fluid" alt="Purple square with white snowflakes and green tree in foreground, now with brown trunk at foot of tree."></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/images/s7.png" class="img-fluid" alt="Purple square with white snowflakes and green tree in foreground. Tree is decorated with red and gold baubles of various sizes."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/images/s7.png" class="img-fluid" alt="Purple square with white snowflakes and green tree in foreground. Tree is decorated with red and gold baubles of various sizes."></p>
 </div>
 </div>
 </div>
@@ -1634,7 +1634,7 @@ font-style: inherit;">0.2</span></span>
 <span id="cb7-24">s9</span></code></pre></div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/images/rwds-christmas-card.png" class="img-fluid figure-img" alt="Purple square with white snowflakes and green tree in foreground. Tree is decorated with red and gold baubles of various sizes. Text over tree reads Merry Christmas. Under tree is a logo for the Real World Data Science website."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/images/rwds-christmas-card.png" class="img-fluid figure-img" alt="Purple square with white snowflakes and green tree in foreground. Tree is decorated with red and gold baubles of various sizes. Text over tree reads Merry Christmas. Under tree is a logo for the Real World Data Science website."></p>
 </figure>
 </div>
 <p>I hope you like the Christmas card! From all of us at Real World Data Science, thank you for your support throughout 2023. Merry Christmas, happy holidays, and best wishes for 2024!</p>
@@ -1650,7 +1650,7 @@ font-style: inherit;">0.2</span></span>
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -1670,14 +1670,14 @@ Tarran, Brian. 2023. “A Christmas card in R for the Real World Data Science co
   <category>R</category>
   <category>Data visualisation</category>
   <category>Updates</category>
-  <guid>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/rwds-xmas-card.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/rwds-xmas-card.html</guid>
   <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/12/images/rwds-christmas-card-thumb.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/12/images/rwds-christmas-card-thumb.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>AI and digital ethics in 2023: a ‘remarkable, eventful year’</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/08/digital-ethics-summit.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/08/digital-ethics-summit.html</link>
   <description><![CDATA[ 
 
 
@@ -1710,7 +1710,7 @@ Tarran, Brian. 2023. “A Christmas card in R for the Real World Data Science co
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/08/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/08/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail photo by <a href="https://unsplash.com/@kajtek?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Kajetan Sumila</a> on <a href="https://unsplash.com/photos/a-screenshot-of-a-computer-bxaqUeVIGHU?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/08/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/08/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail photo by <a href="https://unsplash.com/@kajtek?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Kajetan Sumila</a> on <a href="https://unsplash.com/photos/a-screenshot-of-a-computer-bxaqUeVIGHU?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -1732,14 +1732,14 @@ Tarran, Brian. 2023. “AI and digital ethics in 2023: a ‘remarkable, eventful
   <category>Ethics</category>
   <category>Regulation</category>
   <category>Risk</category>
-  <guid>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/08/digital-ethics-summit.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/08/digital-ethics-summit.html</guid>
   <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/12/08/images/kajetan-sumila-bxaqUeVIGHU-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/12/08/images/kajetan-sumila-bxaqUeVIGHU-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Evaluating artificial intelligence: How data science and statistics can make sense of AI models</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/posts/2023/12/06/ai-fringe.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/12/06/ai-fringe.html</link>
   <description><![CDATA[ 
 
 
@@ -1773,12 +1773,12 @@ Tarran, Brian. 2023. “AI and digital ethics in 2023: a ‘remarkable, eventful
 <div class="g-col-12 g-col-lg-4">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/posts/2023/12/06/images/llm-3d-shapes-crop.png" class="img-fluid figure-img"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/12/06/images/llm-3d-shapes-crop.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="g-col-12 g-col-lg-8 pullquote-grid pullquote">
-<p><img src="https://realworlddatascience.net/images/pullquote-purple.png" class="img-fluid" width="50"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/images/pullquote-purple.png" class="img-fluid" width="50"></p>
 <p>I hear more and more a lot of companies talking about AI general intelligence, and how AI is going to take over the world, and I’m tremendously concerned about this. There is an opportunity to build AI that is human empowering, that keeps us strong, able, capable, intelligent, and can support us in all our human capabilities.</p>
 </div>
 </div>
@@ -1799,13 +1799,13 @@ Tarran, Brian. 2023. “AI and digital ethics in 2023: a ‘remarkable, eventful
 <div class="pullquote-container">
 <div class="grid">
 <div class="g-col-12 g-col-lg-8 pullquote-grid pullquote">
-<p><img src="https://realworlddatascience.net/images/pullquote-purple.png" class="img-fluid" width="50"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/images/pullquote-purple.png" class="img-fluid" width="50"></p>
 <p>I think it’s an insult to the UK’s scientific legacy that we’re reduced to testing software that has been made by US companies. We have huge talents in this country. Why aren’t we using that talent to actually build something instead of testing something that someone else has made?</p>
 </div>
 <div class="g-col-12 g-col-lg-4">
 <div class="quarto-figure quarto-figure-right">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/posts/2023/12/06/images/llm-3d-shapes-crop.png" class="img-fluid figure-img"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/12/06/images/llm-3d-shapes-crop.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1840,12 +1840,12 @@ Tarran, Brian. 2023. “AI and digital ethics in 2023: a ‘remarkable, eventful
 <div class="g-col-12 g-col-lg-4">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/posts/2023/12/06/images/llm-3d-shapes-crop.png" class="img-fluid figure-img"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/12/06/images/llm-3d-shapes-crop.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="g-col-12 g-col-lg-8 pullquote-grid pullquote">
-<p><img src="https://realworlddatascience.net/images/pullquote-purple.png" class="img-fluid" width="50"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/images/pullquote-purple.png" class="img-fluid" width="50"></p>
 <p>At the moment, if you type something into ChatGPT and you ask for references, half of them will be made up. We know that, and also OpenAI knows that. But it could be that, if there’s regulation that things are traceable, you should be able to ask, ‘How did this information come about? Where did it come from?’</p>
 </div>
 </div>
@@ -1920,14 +1920,14 @@ Tarran, Brian. 2023. “Evaluating artificial intelligence: How data science and
   <category>Regulation</category>
   <category>Metrics</category>
   <category>Events</category>
-  <guid>https://realworlddatascience.net/viewpoints/posts/2023/12/06/ai-fringe.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/12/06/ai-fringe.html</guid>
   <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/posts/2023/12/06/images/llm-3d-shapes.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/12/06/images/llm-3d-shapes.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>‘I would like modellers to be less ambitious in developing monster models that are impossible to inspect’</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/interviews/posts/2023/11/24/politics-of-modelling.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/11/24/politics-of-modelling.html</link>
   <description><![CDATA[ 
 
 
@@ -1951,13 +1951,13 @@ The manifesto was something which came out of the pandemic, in fact, because we 
 <div class="g-col-12 g-col-lg-4">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/11/24/images/andrea-saltelli-sq.png" class="img-fluid figure-img" alt="Andrea Saltelli, co-editor of 'The Politics of Modelling'"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/11/24/images/andrea-saltelli-sq.png" class="img-fluid figure-img" alt="Andrea Saltelli, co-editor of 'The Politics of Modelling'"></p>
 <figcaption class="figure-caption">Andrea Saltelli, co-editor of ‘The Politics of Modelling.’</figcaption>
 </figure>
 </div>
 </div>
 <div class="g-col-12 g-col-lg-8 pullquote-grid pullquote">
-<p><img src="https://realworlddatascience.net/images/pullquote-purple.png" class="img-fluid" width="50"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/images/pullquote-purple.png" class="img-fluid" width="50"></p>
 <p>The manifesto was something which came out of the pandemic… We tried to produce a set of recommendations for both society and the modellers: for society to be a bit more circumspect in accepting results from mathematical modelling, and for modellers to be more cautious in formulating their predictions.</p>
 </div>
 </div>
@@ -1990,7 +1990,7 @@ Looking from the point of view of the modellers, I would like them to be more hu
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/11/24/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/11/24/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/11/24/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/11/24/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -2008,14 +2008,14 @@ Tarran, Brian. 2023. “‘I would like modellers to be less ambitious in develo
  ]]></description>
   <category>Modelling</category>
   <category>Public policy</category>
-  <guid>https://realworlddatascience.net/viewpoints/interviews/posts/2023/11/24/politics-of-modelling.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/11/24/politics-of-modelling.html</guid>
   <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/interviews/posts/2023/11/24/images/andrea-saltelli.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/11/24/images/andrea-saltelli.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Deduplicating and linking large datasets using Splink</title>
   <dc:creator>Robin Linacre</dc:creator>
-  <link>https://realworlddatascience.net/case-studies/posts/2023/11/22/splink.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/splink.html</link>
   <description><![CDATA[ 
 
 
@@ -2041,7 +2041,7 @@ Tarran, Brian. 2023. “‘I would like modellers to be less ambitious in develo
 <p>Consider the following simple record comparison. Are these records a match?</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/22/images/record_comparison.png" class="img-fluid figure-img"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/images/record_comparison.png" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption"><strong>Figure 1</strong>: Colour coded comparison of two records.</figcaption>
 </figure>
 </div>
@@ -2049,7 +2049,7 @@ Tarran, Brian. 2023. “‘I would like modellers to be less ambitious in develo
 <p>They can be represented in a chart as follows, in which the highlighted bars correspond to the above example record comparison:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/22/images/partial_match_weights.png" class="img-fluid figure-img"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/images/partial_match_weights.png" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption"><strong>Figure 2</strong>: Chart showing partial match weights of model.</figcaption>
 </figure>
 </div>
@@ -2058,7 +2058,7 @@ Tarran, Brian. 2023. “‘I would like modellers to be less ambitious in develo
 <p>The activated partial match weight can then be represented in a waterfall chart as follows, which shows how the final match score is calculated:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/22/images/waterfall.png" class="img-fluid figure-img"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/images/waterfall.png" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption"><strong>Figure 3</strong>: Waterfall chart showing how partial match weights combine to calculate the final prediction.</figcaption>
 </figure>
 </div>
@@ -2275,7 +2275,7 @@ font-style: inherit;">5</span>)</span></code></pre></div>
 © 2023 Robin Linacre
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/case-studies/posts/2023/11/22/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/case-studies/posts/2023/11/22/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Possessed Photography</a> on <a href="https://unsplash.com/photos/yellow-metal-chain-NwpSBZMhc-M?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail photo by <a href="https://unsplash.com/@possessedphotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Possessed Photography</a> on <a href="https://unsplash.com/photos/yellow-metal-chain-NwpSBZMhc-M?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -2295,14 +2295,14 @@ Linacre, Robin. 2023. “Deduplicating and linking large datasets using Splink.�
   <category>Crime and justice</category>
   <category>Data quality</category>
   <category>Data linkage</category>
-  <guid>https://realworlddatascience.net/case-studies/posts/2023/11/22/splink.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/splink.html</guid>
   <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/case-studies/posts/2023/11/22/images/possessed-photography-NwpSBZMhc-M-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/22/images/possessed-photography-NwpSBZMhc-M-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Learning from failure: ‘Red flags’ in body-worn camera data</title>
   <dc:creator>Noah Wright</dc:creator>
-  <link>https://realworlddatascience.net/case-studies/posts/2023/11/16/learning-from-failure.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/learning-from-failure.html</link>
   <description><![CDATA[ 
 
 
@@ -2332,7 +2332,7 @@ Why body-worn cameras?
 <p>For example, a typical dorm in a correctional center might have four JCOs assigned to it. Across a single week, these four JCOs would be expected to record at least 160 hours of footage.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/jcos-recording-totals.png" class="img-fluid figure-img" alt="A table illustrating working hours over the course of a week for four juvenile correctional officers"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/jcos-recording-totals.png" class="img-fluid figure-img" alt="A table illustrating working hours over the course of a week for four juvenile correctional officers"></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -2341,7 +2341,7 @@ Why body-worn cameras?
 <p>This was replicated across every dorm. Three dorms, for example, would produce nearly 500 hours of footage, as seen below.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/jcos-recording-totals-across-dorms.png" class="img-fluid figure-img" alt="A table illustrating working hours over the course of a week for four juvenile correctional officers in each of three dorms in one juvenile correctional facility"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/jcos-recording-totals-across-dorms.png" class="img-fluid figure-img" alt="A table illustrating working hours over the course of a week for four juvenile correctional officers in each of three dorms in one juvenile correctional facility"></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -2350,7 +2350,7 @@ Why body-worn cameras?
 <p>Finally, we had more than one facility. Four facilities with three dorms each would produce nearly 2,000 hours of footage every week.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/jcos-recording-totals-across-facilities.png" class="img-fluid figure-img" alt="A table illustrating working hours over the course of a week for four juvenile correctional officers in each of three dorms in four separate juvenile correctional facilities"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/jcos-recording-totals-across-facilities.png" class="img-fluid figure-img" alt="A table illustrating working hours over the course of a week for four juvenile correctional officers in each of three dorms in four separate juvenile correctional facilities"></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -2406,7 +2406,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/film.png" class="img-fluid figure-img" alt="graphical icon representing a strip of film"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/film.png" class="img-fluid figure-img" alt="graphical icon representing a strip of film"></p>
 <figcaption class="figure-caption"><strong>Number of clips</strong> = Number of clips recorded.</figcaption>
 </figure>
 </div>
@@ -2414,7 +2414,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/calendar.png" class="img-fluid figure-img" alt="graphical icon representing a calendar"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/calendar.png" class="img-fluid figure-img" alt="graphical icon representing a calendar"></p>
 <figcaption class="figure-caption"><strong>Days with footage</strong> = Number of discrete dates that appear in these clips.</figcaption>
 </figure>
 </div>
@@ -2424,7 +2424,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/clock.png" class="img-fluid figure-img" alt="graphical icon representing a stopwatch"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/clock.png" class="img-fluid figure-img" alt="graphical icon representing a stopwatch"></p>
 <figcaption class="figure-caption"><strong>Footage hours</strong> = Total duration of all shot footage.</figcaption>
 </figure>
 </div>
@@ -2432,7 +2432,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/caution.png" class="img-fluid figure-img" alt="graphical icon of an exclamation mark inside a circle"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/caution.png" class="img-fluid figure-img" alt="graphical icon of an exclamation mark inside a circle"></p>
 <figcaption class="figure-caption"><strong>Significant gaps</strong> = Number of clips where the previous clip’s end date was either greater than 15 minutes or less than eight hours before current clip’s start date.</figcaption>
 </figure>
 </div>
@@ -2445,7 +2445,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/clip-per-day.png" class="img-fluid figure-img" alt="graphical icons representing a strip of film and a calendar"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/clip-per-day.png" class="img-fluid figure-img" alt="graphical icons representing a strip of film and a calendar"></p>
 <figcaption class="figure-caption"><strong>Clips per day</strong> = Number of clips / Days with footage.</figcaption>
 </figure>
 </div>
@@ -2453,7 +2453,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/footage-per-day.png" class="img-fluid figure-img" alt="graphical icons representing a stopwatch and a calendar"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/footage-per-day.png" class="img-fluid figure-img" alt="graphical icons representing a stopwatch and a calendar"></p>
 <figcaption class="figure-caption"><strong>Footage per day</strong> = Footage hours / Days with footage.</figcaption>
 </figure>
 </div>
@@ -2463,7 +2463,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/avg-clip-length.png" class="img-fluid figure-img" alt="graphical icons representing a stopwatch and a strip of film"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/avg-clip-length.png" class="img-fluid figure-img" alt="graphical icons representing a stopwatch and a strip of film"></p>
 <figcaption class="figure-caption"><strong>Average clip length</strong> = Footage hours / Number of clips.</figcaption>
 </figure>
 </div>
@@ -2471,7 +2471,7 @@ Initial quality control steps
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/gaps-per-day.png" class="img-fluid figure-img" alt="graphical icons of an exclamation mark inside a circle and a calendar"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/gaps-per-day.png" class="img-fluid figure-img" alt="graphical icons of an exclamation mark inside a circle and a calendar"></p>
 <figcaption class="figure-caption"><strong>Gaps per day</strong> = Gaps / Days with footage.</figcaption>
 </figure>
 </div>
@@ -2558,7 +2558,7 @@ font-style: inherit;">```</span></span></code></pre></div>
 </details>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/fig-1.png" class="img-fluid figure-img" alt="Four histograms of key metrics - average clip length, average number of clips per day, average footage hours per day, and average gaps per day."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/fig-1.png" class="img-fluid figure-img" alt="Four histograms of key metrics - average clip length, average number of clips per day, average footage hours per day, and average gaps per day."></p>
 </figure>
 </div>
 <p>By eyeballing the distributions I could tell most staff were recording fewer than 10 clips per day, shooting about 0.5–2 hours for each clip, for a total of 2–10 hours of daily footage, with the majority of employees having less than one significant gap per day. Superficially, this appeared to provide evidence of widespread attempts at complying with the body-worn camera policy and no systemic rejection or resistance. If this were indeed the case, then we could turn our attention to individual outliers.</p>
@@ -3034,7 +3034,7 @@ font-style: inherit;">```</span></span></code></pre></div>
 <p>One way to check for deliberate noncompliance would be to first exclude shifts that contain zero footage whatsoever. This would rule out total mismatches, where – for whatever reason – the logged shifts had totally failed to overlap with recorded clips. For the remaining shifts that <em>do</em> contain footage, we could look at the proportion of the shift covered by footage. So, if an eight-hour shift had four hours of recorded footage associated with it, then we could say that 50% of the shift had been recorded. The following histogram is a distribution of the number of employees organized by the percent of their shift-hours they recorded (but only shifts that had a nonzero amount of footage).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/fig-2.png" class="img-fluid figure-img" alt="A histogram of average percent of shifts recorded, excluding shifts with no recorded footage."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/fig-2.png" class="img-fluid figure-img" alt="A histogram of average percent of shifts recorded, excluding shifts with no recorded footage."></p>
 </figure>
 </div>
 <p>As it turned out, most employees recorded the majority of their matching shifts, a finding that roughly aligns with the initial clip analysis. So, what explains the 14,000 hours of footage with no shifts, and the 47,000 hours of shifts with no footage?</p>
@@ -3094,7 +3094,7 @@ Quality issues in shift tracking data
 © 2023 Noah Wright
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/case-studies/posts/2023/11/16/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/case-studies/posts/2023/11/16/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -3122,14 +3122,14 @@ Wright, Noah. 2023. “Learning from failure: ‘Red flags’ in body-worn camer
   <category>Data quality</category>
   <category>Data analysis</category>
   <category>Monitoring</category>
-  <guid>https://realworlddatascience.net/case-studies/posts/2023/11/16/learning-from-failure.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/learning-from-failure.html</guid>
   <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/case-studies/posts/2023/11/16/images/bodycam-monitor.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/case-studies/posts/2023/11/16/images/bodycam-monitor.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>How to ‘open science’: A brief guide to principles and practices</title>
   <dc:creator>Isabel Sassoon</dc:creator>
-  <link>https://realworlddatascience.net/ideas/posts/2023/11/06/how-to-open-science.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/how-to-open-science.html</link>
   <description><![CDATA[ 
 
 
@@ -3171,7 +3171,7 @@ What is a pre-print server?
 <p>Pre-print servers are online repositories that enable you to share versions of your manuscript before or while your manuscript is under review. Examples of such repositories include <a href="https://arxiv.org/">ArXiv</a> and <a href="https://www.medrxiv.org/">MedRxiv</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/images/pre-print.png" class="img-fluid figure-img" alt="Screengrab of the MedRxiv page for a paper titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use: a UK wide cross-sectional online survey.'"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/pre-print.png" class="img-fluid figure-img" alt="Screengrab of the MedRxiv page for a paper titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use: a UK wide cross-sectional online survey.'"></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -3205,7 +3205,7 @@ What is pre-registration?
 <p>Below is an example of a pre-registration.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/images/pre-registration.png" class="img-fluid figure-img" alt="Screengrab of a pre-registration document, detailing a research project's hypothesis, study type, and study design."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/pre-registration.png" class="img-fluid figure-img" alt="Screengrab of a pre-registration document, detailing a research project's hypothesis, study type, and study design."></p>
 </figure>
 </div>
 </div>
@@ -3274,7 +3274,7 @@ Apps and websites to support open science
 <p>OSF is a free web app that supports researchers with sharing, archiving, registration and collaboration. The <a href="https://help.osf.io">Open Science Framework website</a> is worth checking out and includes a guide to help users get started. Once a project is public in the OSF it will have a DOI and a permanent link, so it can be cited. OSF can also support the tracking of versions of your file. One drawback can be that there is a limit on the maximum size of file that can be uploaded.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/images/osf.png" class="img-fluid figure-img" style="width:80.0%" alt="Screengrab of an Open Science Framework repository for a project titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use.'"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/osf.png" class="img-fluid figure-img" style="width:80.0%" alt="Screengrab of an Open Science Framework repository for a project titled 'Why one size fits all is not enough when designing COVID-19 immunity certificates for domestic use.'"></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -3358,7 +3358,7 @@ Apps and websites to support open science
 <p>© 2023 Isabel Sassoon</p>
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://realworlddatascience.net/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://realworlddatascience.net/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a> Thumbnail photo by <a href="https://unsplash.com/@the_photoman?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Basil James</a> on <a href="https://unsplash.com/photos/gray-stainless-steel-padlock-iC4BsZQaREg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a> Thumbnail photo by <a href="https://unsplash.com/@the_photoman?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Basil James</a> on <a href="https://unsplash.com/photos/gray-stainless-steel-padlock-iC4BsZQaREg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -3390,14 +3390,14 @@ Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Applet
   <category>Open source</category>
   <category>Open data</category>
   <category>Reproducible research</category>
-  <guid>https://realworlddatascience.net/ideas/posts/2023/11/06/how-to-open-science.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/how-to-open-science.html</guid>
   <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/ideas/posts/2023/11/06/images/basil-james-iC4BsZQaREg-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/ideas/posts/2023/11/06/images/basil-james-iC4BsZQaREg-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>How data science and statistics can shape the UK’s AI strategy</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/30/ai-conf-panel.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/30/ai-conf-panel.html</link>
   <description><![CDATA[ 
 
 
@@ -3424,7 +3424,7 @@ Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Applet
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/30/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/30/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/30/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/30/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -3444,14 +3444,14 @@ Tarran, Brian. 2023. “How data science and statistics can shape the UK’s AI 
   <category>AI</category>
   <category>Large language models</category>
   <category>Events</category>
-  <guid>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/30/ai-conf-panel.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/30/ai-conf-panel.html</guid>
   <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/30/images/panel.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/30/images/panel.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>‘Statistics and data science are at the heart of the AI movement – we want to be a strong voice in the debate’</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/25/evaluating-ai.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/25/evaluating-ai.html</link>
   <description><![CDATA[ 
 
 
@@ -3482,13 +3482,13 @@ The white paper uses the word “proportionate” many, many times. When you tal
 <div class="g-col-12 g-col-lg-4">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/25/images/andy-garrett-crop.png" class="img-fluid figure-img" alt="Portrait photo of Andrew Garrett"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/25/images/andy-garrett-crop.png" class="img-fluid figure-img" alt="Portrait photo of Andrew Garrett"></p>
 <figcaption class="figure-caption">Andrew Garrett, president, Royal Statistical Society</figcaption>
 </figure>
 </div>
 </div>
 <div class="g-col-12 g-col-lg-8 pullquote-grid pullquote">
-<p><img src="https://realworlddatascience.net/images/pullquote-purple.png" class="img-fluid" width="50"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/images/pullquote-purple.png" class="img-fluid" width="50"></p>
 <p>We have a really important role to play in focusing attention not only on AI outputs but on inputs. That is an area that hasn’t received enough attention but it is one that statisticians understand incredibly well.</p>
 </div>
 </div>
@@ -3523,7 +3523,7 @@ I’d certainly encourage them to join the RSS and be a part of our work on this
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/25/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/25/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/25/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/25/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -3543,14 +3543,14 @@ Tarran, Brian. 2023. “‘Statistics and data science are at the heart of the A
   <category>Events</category>
   <category>Algorithms</category>
   <category>Risk</category>
-  <guid>https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/25/evaluating-ai.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/25/evaluating-ai.html</guid>
   <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/25/images/andy-garrett.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/25/images/andy-garrett.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>An AI for humanity</title>
   <dc:creator>Martin Goodson</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/posts/2023/10/20/ai-for-humanity.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/10/20/ai-for-humanity.html</link>
   <description><![CDATA[ 
 
 
@@ -3650,14 +3650,14 @@ Tarran, Brian. 2023. “‘Statistics and data science are at the heart of the A
  ]]></description>
   <category>AI</category>
   <category>Open source</category>
-  <guid>https://realworlddatascience.net/viewpoints/posts/2023/10/20/ai-for-humanity.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/10/20/ai-for-humanity.html</guid>
   <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/posts/2023/10/20/images/etienne-girardet-_HO6LmpGDl8-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/10/20/images/etienne-girardet-_HO6LmpGDl8-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>‘Feelings about sharing data can be context and time dependent – you can’t just do one survey or focus group’</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/16/data-sharing-in-gov.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/16/data-sharing-in-gov.html</link>
   <description><![CDATA[ 
 
 
@@ -3752,7 +3752,7 @@ Oh, you’re welcome. Thank you.</p>
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/16/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/16/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This interview is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/16/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/16/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This interview is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -3772,14 +3772,14 @@ Tarran, Brian. 2023. “‘Feelings about sharing data can be context and time d
   <category>Data sharing</category>
   <category>Data linkage</category>
   <category>Public engagement</category>
-  <guid>https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/16/data-sharing-in-gov.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/16/data-sharing-in-gov.html</guid>
   <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/interviews/posts/2023/10/16/images/helen-miller-bakewell.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/10/16/images/helen-miller-bakewell.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Join Real World Data Science at three events this October!</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/10/october-events.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/10/october-events.html</link>
   <description><![CDATA[ 
 
 
@@ -3822,7 +3822,7 @@ Tarran, Brian. 2023. “‘Feelings about sharing data can be context and time d
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/10/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/10/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/10/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/10/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -3844,14 +3844,14 @@ Tarran, Brian. 2023. “Join Real World Data Science at three events this Octobe
   <category>Communities</category>
   <category>Events</category>
   <category>Updates</category>
-  <guid>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/10/october-events.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/10/october-events.html</guid>
   <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/10/images/oct-events.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/10/images/oct-events.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>‘I fell in love with math, really, and fell into data science because of that’</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/careers/career-profiles/posts/2023/10/04/niclas-thomas.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/careers/career-profiles/posts/2023/10/04/niclas-thomas.html</link>
   <description><![CDATA[ 
 
 
@@ -3952,7 +3952,7 @@ I think probably, certainly, currently maybe living up to the hype, I suppose. A
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/careers/career-profiles/posts/2023/10/04/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/careers/career-profiles/posts/2023/10/04/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This interview is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/careers/career-profiles/posts/2023/10/04/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/careers/career-profiles/posts/2023/10/04/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This interview is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -3972,14 +3972,14 @@ Tarran, Brian. 2023. “‘I fell in love with math, really, and fell into data 
   <category>Leadership</category>
   <category>Management</category>
   <category>Communication</category>
-  <guid>https://realworlddatascience.net/careers/career-profiles/posts/2023/10/04/niclas-thomas.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/careers/career-profiles/posts/2023/10/04/niclas-thomas.html</guid>
   <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/careers/career-profiles/posts/2023/10/04/images/niclas-thomas.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/careers/career-profiles/posts/2023/10/04/images/niclas-thomas.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>American Statistical Association joins Real World Data Science as partner</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/02/asa-partner.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/02/asa-partner.html</link>
   <description><![CDATA[ 
 
 
@@ -4004,7 +4004,7 @@ Tarran, Brian. 2023. “‘I fell in love with math, really, and fell into data 
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/02/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/02/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/02/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/02/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -4023,14 +4023,14 @@ Tarran, Brian. 2023. “American Statistical Association joins Real World Data S
   <category>News</category>
   <category>Updates</category>
   <category>Call for contributions</category>
-  <guid>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/02/asa-partner.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/02/asa-partner.html</guid>
   <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/10/02/images/laptop-connect.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/10/02/images/laptop-connect.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Live from Chicago: Real World Data Science at posit::conf(2023)</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/positconf-blog.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/positconf-blog.html</link>
   <description><![CDATA[ 
 <script src="https://cdn.jsdelivr.net/npm/monaco-editor@0.43.0/min/vs/loader.js"></script>
 <script type="module" id="webr-monaco-editor-init">
@@ -4065,7 +4065,7 @@ Tarran, Brian. 2023. “American Statistical Association joins Real World Data S
 <p>From there, McVey went on to present a set of “guerilla data science tactics” that data scientists can use to get around any obstacles they may encounter, as illustrated in the slide below:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/images/mcvey-slide.png" class="img-fluid figure-img" alt="Elaine McVey's 'guerilla data science tactics' for building successful data science teams. Start by 'scanning for opportunities', then 'show, don't tell', 'take the data and run', 'nail the landing', and 'up the ante'."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/images/mcvey-slide.png" class="img-fluid figure-img" alt="Elaine McVey's 'guerilla data science tactics' for building successful data science teams. Start by 'scanning for opportunities', then 'show, don't tell', 'take the data and run', 'nail the landing', and 'up the ante'."></p>
 <figcaption class="figure-caption">Elaine McVey’s “guerilla data science tactics” for building successful data science teams.</figcaption>
 </figure>
 </div>
@@ -4350,7 +4350,7 @@ Add write-up here
 <p>During Long’s insightful – and frequently very funny – talk, this slide appeared:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/images/jd-slide.PNG" class="img-fluid figure-img" alt="JD Long's slide reads: 'The single biggest business value derived from the data science movement in the last 13 years is making it legitimate to code outside of IT roles.'"></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/images/jd-slide.PNG" class="img-fluid figure-img" alt="JD Long's slide reads: 'The single biggest business value derived from the data science movement in the last 13 years is making it legitimate to code outside of IT roles.'"></p>
 <figcaption class="figure-caption">JD Long’s assertion #1.</figcaption>
 </figure>
 </div>
@@ -4363,7 +4363,7 @@ Add write-up here
 <p>She first defined generative art as artwork created through a program in any language or interface, so long as the program itself executes the generation of the art. To make generative art, Harris said, you just need data and the ability to “think outside the grid” of your favourite graphics software or package. Harris’s tool of choice is ggplot2, but any will do: “If a tool lets you plot data, it will let you make art,” she said.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/images/gen-art.png" class="img-fluid figure-img" alt="The generative art image shows a setting sun on a red background, with the silhouettes of tall buildings in the foreground."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/images/gen-art.png" class="img-fluid figure-img" alt="The generative art image shows a setting sun on a red background, with the silhouettes of tall buildings in the foreground."></p>
 <figcaption class="figure-caption">A slide from Meghan Santiago Harris’s talk, with an example of how to create an image of the sun setting on a city using lines of R code.</figcaption>
 </figure>
 </div>
@@ -4410,7 +4410,7 @@ Add write-up here
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -4430,14 +4430,14 @@ Tarran, Brian. 2023. “Live from Chicago: Real World Data Science at posit::con
  ]]></description>
   <category>Conferences</category>
   <category>Events</category>
-  <guid>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/positconf-blog.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/positconf-blog.html</guid>
   <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/images/chicago-theatre.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/19/images/chicago-theatre.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>‘What if we try to bring R to the classroom? That was our wacky idea’</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/interviews/posts/2023/09/25/rgirls-interview.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/09/25/rgirls-interview.html</link>
   <description><![CDATA[ 
 
 
@@ -4465,7 +4465,7 @@ Tarran, Brian. 2023. “Live from Chicago: Real World Data Science at posit::con
 <p>“People have attempted to develop lesson plans to teach Python, but that would be a non-starter in my school because (a) there isn’t much curriculum space, and (b) no teacher is enthusiastic enough to take on that activity and learn Python and become the Python expert in class. Whereas using R as a tool to facilitate learning in other subjects just opens up the whole world of data science in a way that is so much more accessible and appealing. People may say we’re really not teaching students how to code – but we’re not putting them off coding either!”</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/09/25/images/screenshot-1.png" class="img-fluid figure-img" alt="Screenshot of R-Girls website, showing a few taster lessons for setting up and using R in class."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/09/25/images/screenshot-1.png" class="img-fluid figure-img" alt="Screenshot of R-Girls website, showing a few taster lessons for setting up and using R in class."></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -4481,7 +4481,7 @@ Tarran, Brian. 2023. “Live from Chicago: Real World Data Science at posit::con
 <p>“One of the key challenges we face in education is that teachers are very stressed, and Covid didn’t help. Workloads are a massive issue in teaching, and of course that’s the same for our teachers. So, we had to make sure that whatever we do does not feel like it’s adding to the workload. One of the things we do is to use R in the cloud, so there is no installation and debugging on local computers. We try to minimise the pain, really.”</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/09/25/images/screenshot-2.png" class="img-fluid figure-img" alt="Screenshot of R-Girls website, showing two geography lessons: one on plotting rainfall data from Australian cities, and one on mapping."></p>
+<p><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/09/25/images/screenshot-2.png" class="img-fluid figure-img" alt="Screenshot of R-Girls website, showing two geography lessons: one on plotting rainfall data from Australian cities, and one on mapping."></p>
 </figure>
 </div>
 <div class="figure-caption" style="text-align: center;">
@@ -4506,7 +4506,7 @@ Tarran, Brian. 2023. “Live from Chicago: Real World Data Science at posit::con
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/09/25/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://realworlddatascience.net/viewpoints/interviews/posts/2023/09/25/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This interview is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/09/25/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;vertical-align:text-bottom;"><img src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/09/25/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"></a> This interview is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -4526,14 +4526,14 @@ Tarran, Brian. 2023. “‘What if we try to bring R to the classroom? That was 
   <category>R</category>
   <category>Education</category>
   <category>Outreach</category>
-  <guid>https://realworlddatascience.net/viewpoints/interviews/posts/2023/09/25/rgirls-interview.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/09/25/rgirls-interview.html</guid>
   <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/interviews/posts/2023/09/25/images/rgirls.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/interviews/posts/2023/09/25/images/rgirls.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>‘Pseudo data science’ and other pitfalls: lessons from the UK’s stats regulator on how not to be misleading</title>
   <dc:creator>Ed Humpherson</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/posts/2023/09/18/pseudo-data-science.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/09/18/pseudo-data-science.html</link>
   <description><![CDATA[ 
 
 
@@ -4594,7 +4594,7 @@ Tarran, Brian. 2023. “‘What if we try to bring R to the classroom? That was 
 © 2023 Ed Humpherson
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/posts/2023/09/18/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/posts/2023/09/18/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/09/18/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/09/18/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -4614,14 +4614,14 @@ Humpherson, Ed. 2023. “‘Pseudo data science’ and other pitfalls: lessons f
   <category>Communication</category>
   <category>Leadership</category>
   <category>Transparency</category>
-  <guid>https://realworlddatascience.net/viewpoints/posts/2023/09/18/pseudo-data-science.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/09/18/pseudo-data-science.html</guid>
   <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/posts/2023/09/18/images/distorted-data.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/posts/2023/09/18/images/distorted-data.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Contributors: check out the new Real World Data Science template repo on GitHub</title>
   <dc:creator>Brian Tarran</dc:creator>
-  <link>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/12/template.html</link>
+  <link>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/12/template.html</link>
   <description><![CDATA[ 
 
 
@@ -4644,7 +4644,7 @@ Humpherson, Ed. 2023. “‘Pseudo data science’ and other pitfalls: lessons f
 © 2023 Royal Statistical Society
 </dd>
 </dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail photo by <a href="https://unsplash.com/@synkevych?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Roman Synkevych</a> on <a href="https://unsplash.com/photos/UT8LMo-wlyk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/12/https:/mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/12/https:/mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> International licence</a>. Thumbnail photo by <a href="https://unsplash.com/@synkevych?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Roman Synkevych</a> on <a href="https://unsplash.com/photos/UT8LMo-wlyk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <dl>
@@ -4663,9 +4663,9 @@ Tarran, Brian. 2023. “Contributors: check out the new Real World Data Science 
   <category>Call for contributions</category>
   <category>Tools</category>
   <category>Updates</category>
-  <guid>https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/12/template.html</guid>
+  <guid>https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/12/template.html</guid>
   <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/12/images/roman-synkevych-UT8LMo-wlyk-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://michaeldmiles.github.io/michaels-data-blog/viewpoints/editors-blog/posts/2023/09/12/images/roman-synkevych-UT8LMo-wlyk-unsplash.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
 </rss>
